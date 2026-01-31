@@ -1,0 +1,11 @@
+{
+    "name": "frontendportofolio",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "install": "cd yosanfrontendportofolio && npm install",
+        "start": "cd yosanfrontendportofolio && npm start",
+        "dev": "cd yosanfrontendportofolio && npm run dev",
+        "build": "cd yosanfrontendportofolio && npm run build"
+    }
+}
